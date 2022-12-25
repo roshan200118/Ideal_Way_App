@@ -1,6 +1,6 @@
-# Ideal_Way_App
+# Ideal Way App
 Created an application for an organization called Ideal Way. 
-An educational children's android application developed using Java. (2020).
+An educational children's android application developed using Android and Java. (2020).
 
 ![IW1 (2)](https://user-images.githubusercontent.com/61467608/103043046-8d457280-4549-11eb-94ff-0c3ab1cc740d.png)
 ![IW2 (2)](https://user-images.githubusercontent.com/61467608/103043047-8dde0900-4549-11eb-8eb6-43cfe03f1aec.png)
